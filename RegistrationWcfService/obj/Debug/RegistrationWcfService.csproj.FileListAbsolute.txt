@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\bin\RegistrationWcfService.dll.config
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\bin\RegistrationWcfService.dll
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\bin\RegistrationWcfService.pdb
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\obj\Debug\RegistrationWcfService.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\obj\Debug\RegistrationWcfService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\obj\Debug\RegistrationWcfService.dll
+C:\Users\DELL\source\repos\RegistrationWebApplication\RegistrationWcfService\obj\Debug\RegistrationWcfService.pdb
